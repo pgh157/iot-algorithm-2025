@@ -7,7 +7,7 @@ root = Tk()
 root.geometry('600x600')
 root.title('이지미처리')
 
-photo = PhotoImage(file='./image/ouna.png')
+photo = PhotoImage(file="./image/ouna.png")
 
 photoAry = []
 h = photo.height()  # 600
