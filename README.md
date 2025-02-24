@@ -94,15 +94,20 @@ https://github.com/user-attachments/assets/2cd7fedc-2524-46f5-8d85-6f0a398fa547
 - 자료구조/알고리즘
     - 정렬 : [노트북](./day06/da04_sort.ipynb)
 
-## 7일차
+## 7일차 
 - 자료구조/알고리즘
     - 정렬
         - 퀵 정렬
         - 정렬 알고리즘 응용
-    
+
+        <img src="./image/compare.png" width = "600">
+
     - 동적 계획법
 
-## 8일차
+    
+
+## 8일차 
 - 자료구조/알고리즘
-    - 검색
-    - 코딩테스트
+    - 검색 : [노트북](./day08/da01search.ipynb)
+        - 검색 구현: [파이썬](./day08/da02_sorted_search.py)
+    - 코딩테스트 
